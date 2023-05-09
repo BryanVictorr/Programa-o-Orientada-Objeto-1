@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pyweatherget
+Version: 0.0.1
+Summary: pacote para obter dados sobre a previsão do tempo
+Author: Bryan Victor
+Author-email: bryanvictor@ufpi.edu.br
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+pyweatherget
+===========
+
+#### Esse é um pacote para obter dados sobre clima e previsões do tempo
+#### Veja um exemplo
+
+## Instalação:
+
+pip install pyweatherget
+
+## Uso:
+
+import pyweatherget
+
+
