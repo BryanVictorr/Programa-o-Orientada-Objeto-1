@@ -1,1 +1,0 @@
-Código com alguns objetos já criado para executar testes mais rápidos
