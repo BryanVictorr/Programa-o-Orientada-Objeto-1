@@ -1,1 +1,0 @@
-from pyweatherget import *
